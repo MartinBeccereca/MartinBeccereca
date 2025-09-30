@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Hola, soy Martin Beccereca
 
-Tengo 21 años y soy de Argentina. Actualmente estudio **Ingeniería en Sistemas de Información** en **UTN FRVM**.  
+Tengo 21 años y soy de Argentina. Actualmente soy **Analista desarrollador universitario de sistemas de información** y  estudio **Ingeniería en Sistemas de Información** en **UTN FRVM**.  
 Me gusta programar y aprender nuevas tecnologías.  
 
 ---
